@@ -1,0 +1,23 @@
+
+{  
+        "Calculo A":                                     [3.4, 60],
+        "Fundamentos Elementares da Matematica":         [4.4, 60],
+        "Programação Funcional":                         [6.0, 60],
+        "Vetores e Geometria Analítica":                 [5.0, 60],
+        "Informatica, Etica e Sociedade":                [9.6, 60],
+        "Seminarios em Computação":                      [10.0, 30],
+        "Fundamentos de Matematica":                     [8.3, 60],
+        "Estatistica Aplicada":                          [8.9, 60],
+        "Algebra Linear":                                [5.3, 60],
+        "Programação Imperativa":                        [9.6, 60],
+        "Calculo I":                                     [7.0, 90],
+        "Calculo II":                                    [5.0, 90],
+        "Fisica 1":                                      [5.0, 60],
+        "Laboratório de Física 1":                       [5.0, 30],
+        "Programação Orientada a Objetos":               [5.0, 60],
+        "Logica para Computação":                        [5.0, 60],
+        "Fundamentos de Sistemas Digitais":              [5.0, 60],
+        "Pratica de Sistemas Digitais":                  [5.0, 30],
+        "Métodos e Técicas de Pesquisa para Computação": [5.0, 30],
+        "Cálculo Numérico I":                            [5.0, 60]
+}
