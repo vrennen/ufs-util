@@ -5,6 +5,7 @@ import json
 with open('notas.json', 'rt') as notas:
     disciplinas = json.load(notas)
 periodosConcluidos = 3
+CHMedia = 3810 / 10
 
 
 def calcMC():
@@ -25,7 +26,6 @@ def calcIECH():
 
 
 def calcIEPL():
-    CHMedia = 3810 / 10
     CHEsperada = CHMedia * periodosConcluidos
     CHAcumulada = 0
     for i in disciplinas.values():

@@ -6,12 +6,14 @@
         "Vetores e Geometria Analítica":                 [5.0, 60],
         "Informatica, Etica e Sociedade":                [9.6, 60],
         "Seminarios em Computação":                      [10.0, 30],
+
         "Fundamentos de Matematica":                     [8.3, 60],
         "Estatistica Aplicada":                          [8.9, 60],
         "Algebra Linear":                                [5.3, 60],
         "Programação Imperativa":                        [9.6, 60],
-        "Calculo I":                                     [7.0, 90],
-        "Calculo II":                                    [5.0, 90],
+        "Calculo I":                                     [7.0, 60],
+
+        "Calculo II":                                    [5.0, 60],
         "Fisica 1":                                      [5.3, 60],
         "Laboratório de Física 1":                       [7.2, 30],
         "Programação Orientada a Objetos":               [7.5, 60],
@@ -20,4 +22,5 @@
         "Pratica de Sistemas Digitais":                  [9.8, 30],
         "Métodos e Técicas de Pesquisa para Computação": [9.0, 30],
         "Cálculo Numérico I":                            [7.8, 60]
+
 }
