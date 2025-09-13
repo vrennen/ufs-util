@@ -4,7 +4,7 @@ import json
 
 with open('notas.json', 'rt') as notas:
     disciplinas = json.load(notas)
-periodosConcluidos = 4
+periodosConcluidos = 5
 CHMedia = 3810 / 10
 
 

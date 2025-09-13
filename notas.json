@@ -30,5 +30,15 @@
         "Linguagens Formais e Computabilidade":           [5.0, 60],
         "Arquitetura de Computadores":                    [9.5, 60],
         "Fundamentos de Sistemas Embarcados":             [10.0, 30],
-        "Tópicos Especiais em Linguagens de Programação": [9.2, 60]
+        "Tópicos Especiais em Linguagens de Programação": [9.2, 60],
+
+        "Fisica 3":                                       [5.0, 60],
+        "Análise de Sistemas Lineares":                   [3.3, 60],
+        "Projeto e Análise de Algoritmos":                [8.0, 60],
+        "Engenharia de Software I":                       [6.0, 60],
+        "Grafos e Algoritmos Computacionais":             [7.0, 60],
+        "Sistemas Operacionais":                          [7.8, 60],
+        "Redes de Computadores":                          [9.0, 60],
+        "Programação Paralela e Concorrente":             [8.4, 60]
+
 }
