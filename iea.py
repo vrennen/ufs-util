@@ -10,6 +10,7 @@ CHMedia = 3810 / 10
 
 def calcMC():
     notasPonderadas = cargaAcumulada = 0
+    cargaAcumulada += 30
     for i in disciplinas.values():
         notasPonderadas += i[0] * i[1]
         cargaAcumulada += i[1]
@@ -18,6 +19,7 @@ def calcMC():
 
 def calcIECH():
     CHAprovada = CHUtilizada = 0
+    CHUtilizada += 60
     for i in disciplinas.values():
         CHUtilizada += i[1]
         if i[0] >= 5.0:
