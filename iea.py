@@ -12,6 +12,8 @@ def calcMC():
     notasPonderadas = cargaAcumulada = 0
     cargaAcumulada += 30
     for i in disciplinas.values():
+        if i[0] == -1:
+            continue
         notasPonderadas += i[0] * i[1]
         cargaAcumulada += i[1]
     return round(notasPonderadas / cargaAcumulada, 2)
@@ -21,6 +23,8 @@ def calcIECH():
     CHAprovada = CHUtilizada = 0
     CHUtilizada += 60
     for i in disciplinas.values():
+        if i[0] == -1:
+            continue
         CHUtilizada += i[1]
         if i[0] >= 5.0:
             CHAprovada += i[1]
@@ -31,7 +35,7 @@ def calcIEPL():
     CHEsperada = CHMedia * periodosConcluidos
     CHAcumulada = 0
     for i in disciplinas.values():
-        if i[0] >= 5.0:
+        if i[0] >= 5.0 or i[0] == -1:
             CHAcumulada += i[1]
     return round(CHAcumulada / CHEsperada, 3)
 

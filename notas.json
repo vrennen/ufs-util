@@ -39,6 +39,7 @@
         "Grafos e Algoritmos Computacionais":             [7.0, 60],
         "Sistemas Operacionais":                          [7.8, 60],
         "Redes de Computadores":                          [9.0, 60],
-        "Programação Paralela e Concorrente":             [8.4, 60]
+        "Programação Paralela e Concorrente":             [8.4, 60], 
 
+        "Atividades Complementares":                      [-1, 120]
 }

@@ -12,3 +12,5 @@ intenção é de ir colocando aqui coisas que faço ou acho úteis pra usar na u
   basta colocar as disciplinas no .json na forma
   
 ` { "Nome da Disciplina":  [Media Final, Carga Horaria] } `
+  
+  Para as disciplinas que foram aproveitadas sem atribuição de nota (como Atividades Complementares), inserir a Média Final como -1
