@@ -4,7 +4,7 @@ import json
 
 with open('notas.json', 'rt') as notas:
     disciplinas = json.load(notas)
-periodosConcluidos = 5
+periodosConcluidos = 6
 CHMedia = 3810 / 10
 
 
@@ -37,6 +37,7 @@ def calcIEPL():
     for i in disciplinas.values():
         if i[0] >= 5.0 or i[0] == -1:
             CHAcumulada += i[1]
+    # print(CHAcumulada)
     return round(CHAcumulada / CHEsperada, 3)
 
 

@@ -41,5 +41,13 @@
         "Redes de Computadores":                          [9.0, 60],
         "Programação Paralela e Concorrente":             [8.4, 60], 
 
-        "Atividades Complementares":                      [-1, 120]
+        "Atividades Complementares":                      [-1, 120],
+
+        "Análise de Sistemas Lineares":                   [6.8, 60],
+        "Banco de Dados I":                               [6.5, 60],
+        "Engenharia de Software II":                      [8.3, 60],
+        "Inteligência Artificial":                        [7.8, 60],
+        "Laboratório de Redes de Computadores":           [8.0, 30],
+        "Sistemas Distribuídos":                          [8.3, 60],
+        "Compiladores":                                   [7.7, 60]
 }
